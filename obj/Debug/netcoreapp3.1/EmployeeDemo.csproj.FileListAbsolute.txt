@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.exe
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.deps.json
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.dll
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp3.1\EmployeeDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.dll
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp3.1\EmployeeDemo.genruntimeconfig.cache
